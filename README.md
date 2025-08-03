@@ -102,9 +102,3 @@ BankManagement/
 
 **Varati Kesava**  
 Java Full Stack | Spring Boot | MERN Stack | ML Projects
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
